@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace CalculadoraDeSomar
+namespace CalculadoraDeMultiplicar
 {
     public partial class frmMultiplicar : Form
     {
