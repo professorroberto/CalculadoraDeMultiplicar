@@ -62,6 +62,7 @@
             this.btnSomar.TabIndex = 18;
             this.btnSomar.Text = "Somar";
             this.btnSomar.UseVisualStyleBackColor = true;
+            this.btnSomar.Click += new System.EventHandler(this.btnSomar_Click);
             // 
             // label2
             // 
